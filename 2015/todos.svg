@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 512 512">
+<!-- Vectorization by Rodrigo Polo https://github.com/rodrigopolo/logotipos-politicos -->
 <defs>
 <g id="l3">
 <path fill="#652E8E" stroke="none" d=" M 497.9 497.9 L 497.9 14.1 14.1 14.1 14.1 497.9 497.9 497.9 Z"/>
@@ -26,4 +27,4 @@
 <g transform="matrix(1,0,0,1,0,0)">
 <use xlink:href="#l0"/>
 </g>
-</svg> 
+</svg>

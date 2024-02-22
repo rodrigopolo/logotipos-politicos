@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 512 512">
+<!-- Vectorization by Rodrigo Polo https://github.com/rodrigopolo/logotipos-politicos -->
 <defs>
 <g id="l4">
 <path fill="#0BA3E2" stroke="none" d=" M 435.6 22.7 Q 428.55 15.65 418.6 15.65 L 93.85 15.65 Q 83.9 15.65 76.85 22.7 69.8 29.75 69.8 39.7 L 69.8 472.75 Q 69.8 482.7 76.85 489.75 83.85 496.75 93.85 496.75 L 418.6 496.75 Q 428.55 496.75 435.6 489.75 442.65 482.7 442.65 472.75 L 442.65 39.7 Q 442.65 29.75 435.6 22.7 Z"/>
@@ -31,4 +32,4 @@
 <g transform="matrix(1,0,0,1,0,0)">
 <use xlink:href="#l0"/>
 </g>
-</svg> 
+</svg>
